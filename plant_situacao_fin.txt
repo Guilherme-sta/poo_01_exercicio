@@ -1,7 +1,0 @@
-@startuml
-class SituacaoFinanceira {
-    - valorCreditos: number
-    - valorDebitos: number
-    + calcularSaldo: number
-}
-@enduml
